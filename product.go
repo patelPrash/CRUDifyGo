@@ -4,8 +4,6 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/spf13/cast"
-	// "google.golang.org/api/iterator"
-	"io/ioutil"
 	"net/http"
 	"om/models"
 	"om/utilities"
