@@ -34,6 +34,16 @@ _Delete_: Enables the removal of specific records from the dataset.
 
 6.Delete a product
 
+## POSTMAN SCREENSHOTS - 
+
+![image](https://github.com/patelPrash/CRUDifyGo/assets/105787742/e9aea184-cc6f-4e7f-ad05-c6560f07bd9f)
+
+![image](https://github.com/patelPrash/CRUDifyGo/assets/105787742/a6463e1d-a28c-46bb-b470-e799ee88a6d2)
+
+![image](https://github.com/patelPrash/CRUDifyGo/assets/105787742/30a757ed-e2c6-428b-bb78-7d7759f07f8b)
+
+
+
 ## Basic Installation You need to have in your system - 
 - GO language (https://go.dev/doc/install)
 - docker (https://www.docker.com/products/docker-desktop/)
@@ -45,6 +55,7 @@ _Delete_: Enables the removal of specific records from the dataset.
   > docker exec -it gofr-mysql mysql -uroot -proot123 test_db -e "CREATE TABLE customers (id INT AUTO_INCREMENT PRIMARY KEY, name VARCHAR(255) NOT NULL);"
 
 - run this command `go run main.go` on terminal
+
 
 ## Diagrams-
 ![UML diagram](https://github.com/patelPrash/CRUDifyGo/assets/105787742/b73c036a-06a6-424e-bb4e-fa371d0d7669)
