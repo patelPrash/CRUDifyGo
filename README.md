@@ -45,4 +45,10 @@ _Delete_: Enables the removal of specific records from the dataset.
 - run this command `go run main.go` on terminal
 
 ## Diagrams-
+![UML diagram](https://github.com/patelPrash/CRUDifyGo/assets/105787742/b73c036a-06a6-424e-bb4e-fa371d0d7669)
+![SequenceDiagram](https://github.com/patelPrash/CRUDifyGo/assets/105787742/21cf5889-3c4b-4bad-9054-a16ed3e1abcc)
 
+
+## Authors-
+Prashant Patel
+(patel.pr0036@gmail.com)
