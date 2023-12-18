@@ -13,16 +13,25 @@ This project is a Go-based application built using the GoFr framework, designed 
 
 **Functionalities**
 _Create_: Enables the addition of new records or entries to the dataset.
+
 _Read_: Allows retrieval of data from the dataset based on specified parameters.
+
 _Update_: Facilitates modification of existing records within the dataset.
+
 _Delete_: Enables the removal of specific records from the dataset.
+
 
 **Features**
 1.Add a product
+
 2.Get a product
+
 3.Fetch a product by id
+
 4.Update Product information
+
 5.Update Product information by id
+
 6.Delete a product
 
 ## Basic Installation You need to have in your system - 
