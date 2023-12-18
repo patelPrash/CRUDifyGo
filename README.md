@@ -1,17 +1,25 @@
 # CRUDifyGo
 
 **Table of Contents**
+
 -Description
+
 -Functionalities
+
 -Features
+
 -Basic Installation You need to have in your system
+
 -How to start the Project
+
 -Diagrams
 
 **Description**
+
 This project is a Go-based application built using the GoFr framework, designed to facilitate CRUD (Create, Read, Update, Delete) operations on a specific dataset. The primary purpose is to provide a robust API for managing data with straightforward endpoints for performing CRUD actions.
 
 **Functionalities**
+
 _Create_: Enables the addition of new records or entries to the dataset.
 
 _Read_: Allows retrieval of data from the dataset based on specified parameters.
@@ -22,6 +30,7 @@ _Delete_: Enables the removal of specific records from the dataset.
 
 
 **Features**
+
 1.Add a product
 
 2.Get a product
