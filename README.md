@@ -42,6 +42,8 @@ _Delete_: Enables the removal of specific records from the dataset.
 - start docker desktop or windows PowerShell
 - then run this command - 
   > docker run --name gofr-mysql -e MYSQL_ROOT_PASSWORD=root123 -e MYSQL_DATABASE=test_db -p 3306:3306 -d mysql:8.0.30
+  > docker exec -it gofr-mysql mysql -uroot -proot123 test_db -e "CREATE TABLE customers (id INT AUTO_INCREMENT PRIMARY KEY, name VARCHAR(255) NOT NULL);"
+
 - run this command `go run main.go` on terminal
 
 ## Diagrams-
